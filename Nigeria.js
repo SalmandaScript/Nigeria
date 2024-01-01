@@ -242,6 +242,16 @@ color: "teal"
 });
 });
 
+//previous page 
+function niger(){
+open("https://salmandascript.github.io/Niger/Niger.html");
+}
+
+//next page 
+function republicOfTheCongo(){
+open("https://salmandascript.github.io/RepublicOfTheCongo/RepublicOfTheCongo.html");
+}
+
 //quizz questions code 
 function checkAnswer()
   {
